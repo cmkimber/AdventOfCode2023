@@ -1,0 +1,3 @@
+# Keeps input files from pushing to github, as they are individual to each user and represent the IP of AoC
+input
+input_example
