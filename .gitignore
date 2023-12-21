@@ -2,6 +2,7 @@
 input
 input_example
 input_example2
+input_example3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
